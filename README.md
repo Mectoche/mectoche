@@ -10,7 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 
 <div id="linguagens" align="center">
   <a href="https://www.python.org/"><img src="https://img.icons8.com/plasticine/100/python.png" width="40">
   <a href="https://www.java.com/pt-BR/"><img src="https://img.icons8.com/plasticine/100/java-coffee-cup-logo.png" width="40">
@@ -19,5 +18,9 @@
   <a href="https://css3.com/"><img src="https://img.icons8.com/plasticine/100/css3.png" width="40">
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" width="40">
   </a>
+</div>
+    
+<div id="redesociais" align="center">
+  
 </div>
 
