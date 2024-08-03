@@ -19,8 +19,6 @@
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" width="40">
   </a>
 </div>
-    
-<div id="redesociais" align="center">
-  
-</div>
+
+[![Contribuições](https://github.com/mectoche/mectoche/blob/master/contributions.yml)](https://github.com/mectoche/mectoche/blob/master/contributions.yml)
 
