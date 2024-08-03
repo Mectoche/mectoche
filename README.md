@@ -1,5 +1,4 @@
-## Olá, meu nome é Samuel Filipe
-
+## Olá! Sou o  _**Mectoche.**_
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,5 +19,4 @@
   </a>
 </div>
 
-[![Contribuições](https://github.com/mectoche/mectoche/blob/master/contributions.yml)](https://github.com/mectoche/mectoche/blob/master/contributions.yml)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mectoche&bg_color=000000&color=ffffff&line=8c00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
