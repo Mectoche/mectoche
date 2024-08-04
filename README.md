@@ -5,7 +5,7 @@ Seja muito Bem-vindo(a) ao meu [***_Mundo!!_***](https://github.com/Mectoche) Aq
  </div>
  <div id="linguagens" align="center">
    
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mectoche&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=1.8&locale=pt_BR&card_width=476&card_height=177)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mectoche&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=1.8&locale=pt_BR&card_width=476&card_height=177)](https://github.com/Mectoche)
 
  </div>
  
